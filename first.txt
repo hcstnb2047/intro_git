@@ -2,4 +2,5 @@ Gitの練習をしています
 基本的なワークフロー
 .git add
 .git commit
+.git rm
 
